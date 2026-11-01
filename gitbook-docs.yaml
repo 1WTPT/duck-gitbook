@@ -1,10 +1,10 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Duck Mod Docs
+  title: Duck Util
   structure:
     - type: space
       key: duck-docs
-      title: Duck Mod Docs
+      title: Duck Util
       path: /
       default: true
       content:
