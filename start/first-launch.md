@@ -1,3 +1,7 @@
+---
+description: 'Запустите Minecraft через профиль Fabric, в котором установлены Fabric API и Duck Util.'
+---
+
 # Первый запуск
 
 Запустите Minecraft через профиль Fabric, в котором установлены Fabric API и Duck Util.

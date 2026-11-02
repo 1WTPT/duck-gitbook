@@ -1,3 +1,7 @@
+---
+description: 'Notifications отвечает за уведомления Duck Util о событиях мода.'
+---
+
 # Notifications — уведомления
 
 **Notifications** отвечает за уведомления Duck Util о событиях мода.

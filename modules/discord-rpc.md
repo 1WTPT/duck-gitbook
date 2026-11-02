@@ -1,3 +1,7 @@
+---
+description: 'Модуль Discord RPC может показывать статус Duck Util в Discord.'
+---
+
 # Discord RPC — статус игры в Discord
 
 Модуль **Discord RPC** может показывать статус Duck Util в Discord.
