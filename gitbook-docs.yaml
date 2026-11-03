@@ -5,7 +5,7 @@ site:
     - type: space
       key: duck-docs
       title: Duck Util
-      path: /
+      path: undefined
       default: true
       content:
         directory: ./
