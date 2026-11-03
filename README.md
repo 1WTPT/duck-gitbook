@@ -20,6 +20,7 @@ description: Проверки, модерация и оформление Minecr
 <tr><td><strong>Установить мод</strong></td><td>Что скачать и куда положить JAR.</td><td><a href="nachalo-raboty/installation.md">Установить мод</a></td></tr>
 <tr><td><strong>Первый запуск</strong></td><td>Активация и первые настройки.</td><td><a href="nachalo-raboty/first-launch.md">Первый запуск</a></td></tr>
 <tr><td><strong>Освоить меню</strong></td><td>Разделы Duck Util и управление функциями.</td><td><a href="nastroika/duck-screen.md">Освоить меню</a></td></tr>
+<tr><td><strong>Посмотреть интерфейс</strong></td><td>Меню, HUD, модерация и игры в скриншотах.</td><td><a href="reference/screenshots.md">Посмотреть интерфейс</a></td></tr>
 </tbody>
 </table>
 

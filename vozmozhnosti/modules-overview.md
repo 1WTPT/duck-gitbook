@@ -2,6 +2,10 @@
 
 Модули включаются и настраиваются в меню Duck Util. Откройте меню клавишей **Right Shift**, выберите раздел и наведите курсор на параметр, чтобы увидеть подсказку. Некоторые функции требуют активной лицензии или поддержки сервера.
 
+<!-- screenshots-3.3 -->
+<figure><img src="../.gitbook/assets/screenshots-3.3/module-better-moderation.png" alt="Модуль и его параметры в меню" data-size="original"><figcaption><p>Модуль и его параметры в меню · Duck Util 3.3.</p></figcaption></figure>
+<!-- /screenshots-3.3 -->
+
 ## Внешний вид и HUD
 
 | Модуль                                                               | Назначение                                            |

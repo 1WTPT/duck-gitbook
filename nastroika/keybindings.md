@@ -5,6 +5,10 @@
 | **Right Shift**      | Открыть меню Duck Util               |
 | **V**                | Открыть меню действий с целью в игре |
 
+<!-- screenshots-3.3 -->
+<figure><img src="../.gitbook/assets/screenshots-3.3/page-binds.png" alt="Все клавиши мода на странице «Бинды»" data-size="original"><figcaption><p>Все клавиши мода на странице «Бинды» · Duck Util 3.3.</p></figcaption></figure>
+<!-- /screenshots-3.3 -->
+
 У некоторых модулей есть собственные привязки. Например, клавишу зума можно назначить в настройках модуля **Zoom**; по умолчанию она не задана.
 
 ## Изменить клавишу

@@ -6,6 +6,19 @@ description: Сохранение настроек и обмен конфига�
 
 На странице **Конфиги** хранятся файлы `.duck` из **Duck Util/Конфиги**. Сохраните настройки под своим именем, выберите файл и нажмите **Поделиться**.
 
+<!-- screenshots-3.3 -->
+<figure><img src="../.gitbook/assets/screenshots-3.3/page-configs.png" alt="Конфиги: список, активный профиль и состав" data-size="original"><figcaption><p>Конфиги: список, активный профиль и состав · Duck Util 3.3. Демонстрационные данные.</p></figcaption></figure>
+
+<details>
+<summary>Как выглядят обмен и загрузка по коду</summary>
+
+<figure><img src="../.gitbook/assets/screenshots-3.3/config-share.png" alt="Публикация конфига: демонстрационный код DEMO-1234" data-size="original"><figcaption><p>Публикация конфига: демонстрационный код DEMO-1234 · Duck Util 3.3. Демонстрационные данные.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots-3.3/config-import.png" alt="Окно ввода кода конфига" data-size="original"><figcaption><p>Окно ввода кода конфига · Duck Util 3.3.</p></figcaption></figure>
+
+</details>
+<!-- /screenshots-3.3 -->
+
 Мод загрузит общий конфиг в облако и покажет код из **8 знаков**. Другой пользователь откроет **Конфиги → По коду**, посмотрит сведения о файле и сохранит его в свою папку. Для облачных операций нужна действующая лицензия.
 
 Ключи лицензии, локальные пути и настройки только этого компьютера в общий конфиг не включаются.

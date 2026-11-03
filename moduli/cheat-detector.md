@@ -2,6 +2,10 @@
 
 **Cheat Detector** собирает игровые данные и отмечает подозрительные действия. Автоматические срабатывания — подсказка для проверки, а не доказательство нарушения.
 
+<!-- screenshots-3.3 -->
+<figure><img src="../.gitbook/assets/screenshots-3.3/module-cheat-detector.png" alt="Cheat Detector — детектор подозрительного поведения — настройки" data-size="original"><figcaption><p>Cheat Detector — детектор подозрительного поведения — настройки · Duck Util 3.3.</p></figcaption></figure>
+<!-- /screenshots-3.3 -->
+
 Настройте модуль в меню Duck Util. Если вам нужна запись для последующего разбора, используйте встроенные команды:
 
 * `/cdstart ник` — начать запись для игрока;

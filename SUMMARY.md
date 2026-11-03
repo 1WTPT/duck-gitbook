@@ -6,6 +6,7 @@
 
 * [Установка](nachalo-raboty/installation.md)
 * [Первый запуск](nachalo-raboty/first-launch.md)
+* [Интерфейс в скриншотах](reference/screenshots.md)
 
 ## Возможности
 
@@ -16,13 +17,21 @@
 * [Система целей](vozmozhnosti/target-system.md)
 * [Модерация и баны](vozmozhnosti/ban-system.md)
 * [Социальные функции](vozmozhnosti/social.md)
+* [Встроенные игры](vozmozhnosti/games.md)
 * [Запись экрана](vozmozhnosti/records.md)
 * [Оптимизация](vozmozhnosti/optimization.md)
 
 ## Настройка
 
 * [Главное меню](nastroika/duck-screen.md)
-* [Страницы меню](nastroika/menu-pages.md)
+* [Рабочие страницы меню](nastroika/menu-pages.md)
+  * [Проверка](nastroika/check-screen.md)
+  * [Спекхелпер](nastroika/spec-helper.md)
+  * [Записи](nastroika/records-screen.md)
+  * [Ветка аккаунтов](nastroika/branch-screen.md)
+  * [Автоскан](nastroika/auto-scan-screen.md)
+  * [Отчёт](nastroika/report-screen.md)
+  * [ВКонтакте](nastroika/vk-screen.md)
 * [Редактор HUD](nastroika/hud-editor.md)
 * [Меню цели](nastroika/target-menu-ui.md)
 * [Социальный экран](nastroika/social-view.md)
