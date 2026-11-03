@@ -10,6 +10,7 @@
 ## Возможности
 
 * [Обзор возможностей](vozmozhnosti/overview.md)
+* [Конфиги и обмен по коду](vozmozhnosti/configs.md)
 * [Модули](vozmozhnosti/modules-overview.md)
 * [HUD и оформление](vozmozhnosti/hud.md)
 * [Система целей](vozmozhnosti/target-system.md)
@@ -28,6 +29,8 @@
 * [Статистика](nastroika/stats-view.md)
 * [Клавиши](nastroika/keybindings.md)
 * [Команды](nastroika/commands.md)
+* [Активация](nastroika/license-screen.md)
+* [Что нового в 3.3](reference/changelog.md)
 
 ## Модули
 

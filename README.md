@@ -1,5 +1,7 @@
 # Duck Util
 
+Обновление **3.3**: [единый список изменений](reference/changelog.md) — El Drifto, новые эффекты, учёт SystemDLC, диагностика активации и обмен конфигами.
+
 ![Duck Util — Minecraft 1.21.11, Fabric](.gitbook/assets/banner.png)
 
 Добро пожаловать в руководство Duck Util — клиентского мода для Minecraft **1.21.11** на Fabric. Здесь собраны инструкции по установке, настройке и функциям мода.
