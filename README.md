@@ -4,7 +4,7 @@ description: Проверки, модерация и оформление Minecr
 
 # Duck Util
 
-![Duck Util — Minecraft 1.21.11 · Fabric](.gitbook/assets/banner-3d.png)
+![Duck Util — Minecraft 1.21.11 · Fabric](.gitbook/assets/banner-orange.png)
 
 Ваши инструменты для проверок и модерации, удобное меню и настраиваемый HUD. Duck Util работает на клиенте **Minecraft 1.21.11 с Fabric** — устанавливать мод на игровой сервер не нужно.
 
