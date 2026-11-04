@@ -1,5 +1,5 @@
 ---
-description: Проверки, модерация и оформление Minecraft — руководство Duck Util 3.3.
+description: Проверки, модерация и оформление Minecraft — руководство Duck Util 3.11.
 ---
 
 # Duck Util
@@ -9,7 +9,7 @@ description: Проверки, модерация и оформление Minecr
 Ваши инструменты для проверок и модерации, удобное меню и настраиваемый HUD. Duck Util работает на клиенте **Minecraft 1.21.11 с Fabric** — устанавливать мод на игровой сервер не нужно.
 
 {% hint style="info" %}
-**Вышла версия 3.3.** El Drifto с настройками скорости и звука, выбор результата SystemDLC, подробные ошибки активации и обмен конфигами. [Все изменения →](reference/changelog.md)
+**Актуальная версия — 3.11.** «Последняя дуэль» с отдельной камерой и проходом сквозь стены, Drone, Dark Summon и автоматическая `/ca teamtg` после `/key`. [История обновлений →](reference/changelog.md)
 {% endhint %}
 
 ## Начать пользоваться
@@ -30,7 +30,10 @@ description: Проверки, модерация и оформление Minecr
 <thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead>
 <tbody>
 <tr><td><strong>Проверки и отчёты</strong></td><td>Меню цели, наказания и учёт SystemDLC.</td><td><a href="vozmozhnosti/ban-system.md">Проверки и отчёты</a></td></tr>
-<tr><td><strong>Эффекты бана</strong></td><td>El Drifto, Танк, Сахур и другие сцены.</td><td><a href="moduli/ban-effect.md">Эффекты бана</a></td></tr>
+<tr><td><strong>Эффекты бана</strong></td><td>Drone, Северный топор, El Drifto и другие сцены.</td><td><a href="moduli/ban-effect.md">Эффекты бана</a></td></tr>
+<tr><td><strong>Последняя дуэль</strong></td><td>Меч и отдельная камера для завершающего удара по копии.</td><td><a href="moduli/last-duel.md">Последняя дуэль</a></td></tr>
+<tr><td><strong>Вызов на проверку</strong></td><td>Dark Summon: чёрные руки обхватывают игрока и поднимают вверх.</td><td><a href="moduli/dark-summon.md">Вызов на проверку</a></td></tr>
+<tr><td><strong>Автоматический вход</strong></td><td>Auto Key: ключ и отложенная команда /ca teamtg.</td><td><a href="moduli/auto-key.md">Автоматический вход</a></td></tr>
 <tr><td><strong>Конфиги по коду</strong></td><td>Сохранить настройки и поделиться ими.</td><td><a href="vozmozhnosti/configs.md">Конфиги по коду</a></td></tr>
 <tr><td><strong>HUD и оформление</strong></td><td>Темы, панели и редактор элементов экрана.</td><td><a href="vozmozhnosti/hud.md">HUD и оформление</a></td></tr>
 <tr><td><strong>Модули</strong></td><td>Найти функцию и разобраться в её настройках.</td><td><a href="vozmozhnosti/modules-overview.md">Модули</a></td></tr>
