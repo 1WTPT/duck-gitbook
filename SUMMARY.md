@@ -39,7 +39,7 @@
 * [Клавиши](nastroika/keybindings.md)
 * [Команды](nastroika/commands.md)
 * [Активация](nastroika/license-screen.md)
-* [История обновлений — 3.4](reference/changelog.md)
+* [История обновлений — 3.5](reference/changelog.md)
 
 ## Модули
 
