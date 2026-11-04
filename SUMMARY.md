@@ -46,6 +46,7 @@
 * [Interface — оформление меню](moduli/interface.md)
 * [Theme — темы](moduli/theme.md)
 * [HUD — элементы экрана](moduli/hud.md)
+  * [Рабочий чат](moduli/work-chat.md)
 * [Notifications — уведомления](moduli/notifications.md)
 * [Image HUD — изображения на экране](moduli/image-hud.md)
 * [Target Render — отображение цели](moduli/target-render.md)
