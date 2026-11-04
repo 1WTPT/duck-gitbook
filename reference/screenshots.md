@@ -4,19 +4,19 @@ description: Меню и HUD Duck Util, а также Drone, Dark Summon, топ
 
 # Интерфейс в скриншотах
 
-Настоящие снимки интерфейса и визуальных сцен. Версия указана в подписи: основные экраны сняты в 3.3, новые эффекты — в 3.9–3.11. Для примеров проверок, заявок, отчётов и сетевых функций использованы демонстрационные ники и данные. Нажмите на изображение, чтобы рассмотреть его в полном размере.
+Настоящие снимки интерфейса и визуальных сцен. Версия указана в подписи: основные экраны сняты в 3.3, новые эффекты — в 3.4. Для примеров проверок, заявок, отчётов и сетевых функций использованы демонстрационные ники и данные. Нажмите на изображение, чтобы рассмотреть его в полном размере.
 
-## Последняя дуэль — 3.11
+## Последняя дуэль — 3.4
 
-<figure><img src="../.gitbook/assets/effects-3.11/last-duel.png" alt="Отдельная камера Последней дуэли с мечом и копией игрока" data-size="original"><figcaption><p>Последняя дуэль · Duck Util 3.11. Отдельный тестовый мир, без реального бана.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/effects-3.4/last-duel.png" alt="Отдельная камера Последней дуэли с мечом и копией игрока" data-size="original"><figcaption><p>Последняя дуэль · Duck Util 3.4. Отдельный тестовый мир, без реального бана.</p></figcaption></figure>
 
 [Камера, управление и виртуальная платформа](../moduli/last-duel.md)
 
 ## Drone и новые сцены
 
-<figure><img src="../.gitbook/assets/effects-3.11/drone-fpv.png" alt="FPV Drone приближается к игроку" data-size="original"><figcaption><p>FPV Drone · Демонстрационная сцена 3.10.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/effects-3.4/drone-fpv.png" alt="FPV Drone приближается к игроку" data-size="original"><figcaption><p>FPV Drone · Демонстрационная сцена 3.4.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/effects-3.11/dark-summon.png" alt="Dark Summon обхватывает копию игрока по бокам" data-size="original"><figcaption><p>Dark Summon · Демонстрационная сцена 3.9.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/effects-3.4/dark-summon.png" alt="Dark Summon обхватывает копию игрока по бокам" data-size="original"><figcaption><p>Dark Summon · Демонстрационная сцена 3.4.</p></figcaption></figure>
 
 [Drone, топор и остальные бан-эффекты](../moduli/ban-effect.md) · [Настройки Dark Summon](../moduli/dark-summon.md)
 

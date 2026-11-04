@@ -38,6 +38,6 @@ description: Автоматическая отправка серверного 
 <details>
 <summary>Основные настройки в версии 3.3</summary>
 
-<figure><img src="../.gitbook/assets/screenshots-3.3/module-auto-key.png" alt="Поле ключа и основные настройки Auto Key в версии 3.3" data-size="original"><figcaption><p>Архивный снимок 3.3. Чекбокс /ca teamtg и его задержка добавлены в 3.11.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshots-3.3/module-auto-key.png" alt="Поле ключа и основные настройки Auto Key в версии 3.3" data-size="original"><figcaption><p>Архивный снимок 3.3. Чекбокс /ca teamtg и его задержка добавлены в 3.4.</p></figcaption></figure>
 
 </details>
