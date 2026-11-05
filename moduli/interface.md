@@ -2,7 +2,7 @@
 
 Модуль **Interface** содержит настройки внешнего вида меню Duck Util: фон, масштаб, прозрачность, анимации и звуки.
 
-<figure><img src="../.gitbook/assets/new-year-mode-menu.png" alt="Настройки Interface в Duck Util 3.5 с включённым New Year Mode"><figcaption><p>Interface · Duck Util 3.5. New Year Mode включён.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/new-year-3.5-menu-fitted.png" alt="Настройки Interface в Duck Util 3.5 с включённым New Year Mode"><figcaption><p>Interface · Duck Util 3.5. New Year Mode включён.</p></figcaption></figure>
 
 Откройте меню клавишей **Right Shift**, выберите **Interface** и меняйте параметры, чтобы сразу увидеть результат. Если надписи плохо читаются, уменьшите прозрачность фона или отключите изображение под меню.
 
@@ -12,8 +12,8 @@
 
 Включите **Right Shift → Разное → Interface → New Year Mode** в разделе **«Меню»**. По умолчанию режим выключен; его можно включать в любое время года.
 
-Объёмная снежная шапка украшает верхнюю кромку меню, окна предпросмотра, диалогов и полноэкранной «Ветки». В круглом меню цели снег повторяет изгиб кольца. Шапка масштабируется вместе с GUI и не закрывает заголовки и кнопки.
+Объёмная снежная шапка украшает верхнюю кромку меню, окна предпросмотра, диалогов и полноэкранной «Ветки». В круглом меню цели снег повторяет изгиб кольца. Снег опущен плотнее на раму, чтобы закрывать верхние углы и не оставлять просвет над окном. Шапка масштабируется вместе с GUI и не закрывает заголовки и кнопки.
 
 **HUD остаётся без снега**: рабочий чат, watermark, уведомления и остальные элементы экрана сохраняют своё оформление. Переключатель сохраняется в конфиге.
 
-<figure><img src="../.gitbook/assets/new-year-3.5-preview.png" alt="New Year Mode: снежные шапки на меню и окне предпросмотра"><figcaption><p>Меню и предпросмотр · New Year Mode, Duck Util 3.5.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/new-year-3.5-preview-fitted.png" alt="New Year Mode: снежные шапки на меню и окне предпросмотра"><figcaption><p>Меню и предпросмотр · New Year Mode, Duck Util 3.5.</p></figcaption></figure>
