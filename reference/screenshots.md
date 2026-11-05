@@ -10,13 +10,13 @@ description: >-
 
 ## New Year Mode — 3.5
 
-Снежное оформление включается в **Right Shift → Разное → Interface → Меню → New Year Mode**. По умолчанию выключено. Шапка плотно заходит на раму и закрывает верхние углы. Все снимки ниже сделаны в отдельном тестовом клиенте; HUD сохраняет обычный вид.
+Снег, игрушки и гирлянды включаются в **Right Shift → Разное → Interface → Меню → New Year Mode**. По умолчанию выключено. Красные и изумрудные шары, золотые звёзды и цветные лампочки сгенерированы в высоком разрешении и плавно уменьшаются под размер GUI. Шапка плотно заходит на раму и закрывает верхние углы. Все снимки ниже сделаны в отдельном тестовом клиенте; HUD сохраняет обычный вид.
 
-<figure><img src="../.gitbook/assets/new-year-3.5-preview-fitted.png" alt="Снежные шапки на основном меню и окне предпросмотра"><figcaption><p>Меню и предпросмотр · New Year Mode, Duck Util 3.5.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/new-year-3.5-ornaments-preview.png" alt="Снежные шапки с игрушками и гирляндами на меню и окне предпросмотра"><figcaption><p>Меню и предпросмотр · New Year Mode, Duck Util 3.5.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/new-year-3.5-dialog-fitted.png" alt="Диалог логов со снежной шапкой"><figcaption><p>Диалоги Duck Util · New Year Mode, версия 3.5. Демонстрационные данные.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/new-year-3.5-ornaments-dialog.png" alt="Диалог логов со снежной шапкой"><figcaption><p>Диалоги Duck Util · New Year Mode, версия 3.5. Демонстрационные данные.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/new-year-3.5-wheel-fitted.png" alt="Снежная шапка повторяет верхнюю дугу кругового меню цели"><figcaption><p>Круговое меню цели · New Year Mode, Duck Util 3.5.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/new-year-3.5-ornaments-wheel.png" alt="Снежная шапка повторяет верхнюю дугу кругового меню цели"><figcaption><p>Круговое меню цели · New Year Mode, Duck Util 3.5.</p></figcaption></figure>
 
 [Как включить и что меняет режим](../moduli/interface.md)
 
