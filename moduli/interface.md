@@ -2,7 +2,7 @@
 
 Модуль **Interface** содержит настройки внешнего вида меню Duck Util: фон, масштаб, прозрачность, анимации и звуки.
 
-<figure><img src="../.gitbook/assets/screenshots-3.3/module-interface.png" alt="Interface — оформление меню — настройки"><figcaption><p>Interface — оформление меню — настройки · Duck Util 3.3.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/new-year-mode-menu.png" alt="Настройки Interface в Duck Util 3.5 с включённым New Year Mode"><figcaption><p>Interface · Duck Util 3.5. New Year Mode включён.</p></figcaption></figure>
 
 Откройте меню клавишей **Right Shift**, выберите **Interface** и меняйте параметры, чтобы сразу увидеть результат. Если надписи плохо читаются, уменьшите прозрачность фона или отключите изображение под меню.
 
@@ -16,4 +16,4 @@
 
 **HUD остаётся без снега**: рабочий чат, watermark, уведомления и остальные элементы экрана сохраняют своё оформление. Переключатель сохраняется в конфиге.
 
-<figure><img src="../.gitbook/assets/new-year-mode-menu.png" alt="New Year Mode: снежная шапка на верхнем крае меню Duck Util"><figcaption><p>New Year Mode · Duck Util 3.5. Снимок меню из отдельного тестового клиента.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/new-year-3.5-preview.png" alt="New Year Mode: снежные шапки на меню и окне предпросмотра"><figcaption><p>Меню и предпросмотр · New Year Mode, Duck Util 3.5.</p></figcaption></figure>
