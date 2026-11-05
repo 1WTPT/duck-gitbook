@@ -10,13 +10,13 @@ description: >-
 
 ## New Year Mode — 3.5
 
-Снег, игрушки и гирлянды включаются в **Right Shift → Разное → Interface → Меню → New Year Mode**. По умолчанию выключено. Красные и изумрудные шары, золотые звёзды и цветные лампочки сгенерированы в высоком разрешении и плавно уменьшаются под размер GUI. Шапка плотно заходит на раму и закрывает верхние углы. Все снимки ниже сделаны в отдельном тестовом клиенте; HUD сохраняет обычный вид.
+Снег, игрушки и гирлянды включаются в **Right Shift → Разное → Interface → Меню → New Year Mode**. По умолчанию выключено. Украшения развёрнуты под разными углами и расположены на разной высоте; нижние края игрушек с одной стороны прикрывает снег. Красные и изумрудные шары, золотые звёзды и цветные лампочки сгенерированы в высоком разрешении и плавно уменьшаются под размер GUI. Шапка плотно заходит на раму и закрывает верхние углы. Все снимки ниже сделаны в отдельном тестовом клиенте; HUD сохраняет обычный вид.
 
-<figure><img src="../.gitbook/assets/new-year-3.5-ornaments-preview.png" alt="Снежные шапки с игрушками и гирляндами на меню и окне предпросмотра"><figcaption><p>Меню и предпросмотр · New Year Mode, Duck Util 3.5.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/new-year-3.5-natural-preview.png" alt="Снежные шапки с игрушками и гирляндами на меню и окне предпросмотра"><figcaption><p>Меню и предпросмотр · New Year Mode, Duck Util 3.5.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/new-year-3.5-ornaments-dialog.png" alt="Диалог логов со снежной шапкой"><figcaption><p>Диалоги Duck Util · New Year Mode, версия 3.5. Демонстрационные данные.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/new-year-3.5-natural-dialog.png" alt="Диалог логов со снежной шапкой"><figcaption><p>Диалоги Duck Util · New Year Mode, версия 3.5. Демонстрационные данные.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/new-year-3.5-ornaments-wheel.png" alt="Снежная шапка повторяет верхнюю дугу кругового меню цели"><figcaption><p>Круговое меню цели · New Year Mode, Duck Util 3.5.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/new-year-3.5-natural-wheel.png" alt="Снежная шапка повторяет верхнюю дугу кругового меню цели"><figcaption><p>Круговое меню цели · New Year Mode, Duck Util 3.5.</p></figcaption></figure>
 
 [Как включить и что меняет режим](../moduli/interface.md)
 
