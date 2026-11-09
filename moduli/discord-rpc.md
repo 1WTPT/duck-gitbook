@@ -2,8 +2,10 @@
 
 Модуль **Discord RPC** может показывать статус Duck Util в Discord.
 
-<!-- screenshots-3.3 -->
-<figure><img src="../.gitbook/assets/screenshots-3.3/module-discord-rpc.png" alt="Discord RPC — статус Discord — настройки" data-size="original"><figcaption><p>Discord RPC — статус Discord — настройки · Duck Util 3.3.</p></figcaption></figure>
-<!-- /screenshots-3.3 -->
+<figure><img src="../.gitbook/assets/screenshots-3.3/module-discord-rpc.png" alt="Discord RPC — статус Discord — настройки"><figcaption><p>Discord RPC — статус Discord — настройки · Duck Util 3.3.</p></figcaption></figure>
 
 Включите модуль, если хотите отображать игровую активность. Для работы потребуется запущенный Discord. Какие сведения видны другим пользователям, зависит от настроек приватности Discord.
+
+## Музыка в статусе
+
+В **Разное → Discord RPC → Верхняя строка** добавьте `{music}`, чтобы показать исполнителя и название текущей композиции из системного медиасеанса Windows. Метку можно выбрать в подсказках после ввода `{`. По умолчанию верхняя строка содержит `{status}`. При паузе или отсутствии дорожки `{music}` подставляет пустую строку. Настройка работает и при скрытом HUD медиаплеера.
