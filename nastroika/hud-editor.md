@@ -6,23 +6,24 @@
 
 Откройте игровой чат. **ЛКМ** — перетащить панель, **ПКМ** — открыть её мини-настройки. Если элемента нет, включите его в настройках HUD или соответствующего модуля.
 
-<figure><img src="../.gitbook/assets/screenshots-3.3/hud-layout.png" alt="Расположение панелей в открытом чате" data-size="original"><figcaption><p>Расположение панелей в открытом чате · Duck Util 3.3. Демонстрационные данные.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshots-3.3/hud-layout.png" alt="Расположение панелей в открытом чате"><figcaption><p>Расположение панелей в открытом чате · Duck Util 3.3. Демонстрационные данные.</p></figcaption></figure>
 
 ## Создать свой вид
 
-В меню **Right Shift → Редактор** выберите элемент: Target HUD, Watermark, WorkHud, HUD проверки или медиаплеер. Нажмите **Новый вид**, задайте название и начните со встроенного шаблона или пустого холста.
+В меню **Right Shift → Редактор** выберите элемент: Target HUD, Watermark, WorkHud или медиаплеер. Нажмите **Новый вид**, задайте название и начните со встроенного шаблона или пустого холста.
 
-<figure><img src="../.gitbook/assets/screenshots-3.3/page-editor.png" alt="Страница «Редактор»: виды выбранного элемента" data-size="original"><figcaption><p>Страница «Редактор»: виды выбранного элемента · Duck Util 3.3.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshots-3.3/page-editor.png" alt="Страница «Редактор»: виды выбранного элемента"><figcaption><p>Страница «Редактор»: виды выбранного элемента · Duck Util 3.3.</p></figcaption></figure>
 
 В полноэкранном редакторе слева находятся части и слои, в центре — холст, справа — свойства выбранной части. Колесо меняет масштаб, **ПКМ** или **Пробел** со сдвигом перемещает холст. **Shift** временно отключает прилипание.
 
-<figure><img src="../.gitbook/assets/screenshots-3.3/hud-editor.png" alt="Редактор собственного вида Target HUD" data-size="original"><figcaption><p>Редактор собственного вида Target HUD · Duck Util 3.3.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshots-3.3/hud-editor.png" alt="Редактор собственного вида Target HUD"><figcaption><p>Редактор собственного вида Target HUD · Duck Util 3.3.</p></figcaption></figure>
 
 **Ctrl+Z / Ctrl+Y** — отмена и повтор. Нажмите **Сохранить** или **Ctrl+S**, чтобы сохранить вид. При выходе с несохранёнными правками появится вопрос. Затем выберите созданный вариант в настройке **Оформление** соответствующего элемента.
 
 <details>
+
 <summary>Пример другого элемента — Watermark</summary>
 
-<figure><img src="../.gitbook/assets/screenshots-3.3/hud-watermark-editor.png" alt="Редактор Watermark" data-size="original"><figcaption><p>Редактор Watermark · Duck Util 3.3.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshots-3.3/hud-watermark-editor.png" alt="Редактор Watermark"><figcaption><p>Редактор Watermark · Duck Util 3.3.</p></figcaption></figure>
 
 </details>

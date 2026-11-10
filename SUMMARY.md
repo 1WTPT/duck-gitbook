@@ -30,7 +30,7 @@
   * [Записи](nastroika/records-screen.md)
   * [Ветка аккаунтов](nastroika/branch-screen.md)
   * [Автоскан](nastroika/auto-scan-screen.md)
-  * [Отчёт](nastroika/report-screen.md)
+  * [Архив банов](nastroika/report-screen.md)
   * [ВКонтакте](nastroika/vk-screen.md)
 * [Редактор HUD](nastroika/hud-editor.md)
 * [Меню цели](nastroika/target-menu-ui.md)

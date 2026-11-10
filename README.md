@@ -1,15 +1,15 @@
 ---
-description: Проверки, модерация и оформление Minecraft — руководство Duck Util 3.5.
+description: Смены модерации и оформление Minecraft — руководство Duck Util 3.5.
 ---
 
 # Duck Util
 
 ![Duck Util — Minecraft 1.21.11 · Fabric](.gitbook/assets/banner-orange.png)
 
-Ваши инструменты для проверок и модерации, удобное меню и настраиваемый HUD. Duck Util работает на клиенте **Minecraft 1.21.11 с Fabric** — устанавливать мод на игровой сервер не нужно.
+Duck Util объединяет очередь смены, запись экрана, меню модерации и настраиваемый HUD. Duck Util работает на клиенте **Minecraft 1.21.11 с Fabric** — устанавливать мод на игровой сервер не нужно.
 
 {% hint style="info" %}
-**Актуальная версия — 3.5.** [New Year Mode](moduli/interface.md) украшает меню и диалоги снегом, шарами, звёздами и гирляндами, сохраняя HUD без украшений. Исправлен предпросмотр Dark Summon, добавлена бесконечная история рабочего чата, убраны двойные интервалы и вывод сканирования «Ветки» в рабочую ленту. [История обновлений →](reference/changelog.md)
+**Актуальная версия — 3.5.** В [Спекхелпере](nastroika/spec-helper.md) доступны подтверждённая смена, личная очередь и переход к участникам заявки. [Запись смены](nastroika/records-screen.md) начинается на FunTime и сохраняется кнопкой «Закончить запись». [История обновлений](reference/changelog.md)
 
 Также в 3.4: [отдельный рабочий чат](moduli/work-chat.md) и [свой набор случайных бан-эффектов](moduli/ban-effect.md) с частотами и запретом повторов.
 {% endhint %}
@@ -20,7 +20,7 @@ description: Проверки, модерация и оформление Minecr
 
 ## Под ваши задачи
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Проверки и отчёты</strong></td><td>Меню цели, наказания и учёт SystemDLC.</td><td><a href="vozmozhnosti/ban-system.md">ban-system.md</a></td></tr><tr><td><strong>Эффекты бана</strong></td><td>Drone, Северный топор, El Drifto и другие сцены.</td><td><a href="moduli/ban-effect.md">ban-effect.md</a></td></tr><tr><td><strong>Последняя дуэль</strong></td><td>Меч и отдельная камера для завершающего удара по копии.</td><td><a href="moduli/last-duel.md">last-duel.md</a></td></tr><tr><td><strong>Вызов на проверку</strong></td><td>Dark Summon: чёрные руки обхватывают игрока и поднимают вверх.</td><td><a href="moduli/dark-summon.md">dark-summon.md</a></td></tr><tr><td><strong>Автоматический вход</strong></td><td>Auto Key: ключ и отложенная команда /ca teamtg.</td><td><a href="moduli/auto-key.md">auto-key.md</a></td></tr><tr><td><strong>Конфиги по коду</strong></td><td>Сохранить настройки и поделиться ими.</td><td><a href="vozmozhnosti/configs.md">configs.md</a></td></tr><tr><td><strong>HUD и оформление</strong></td><td>Темы, панели и редактор элементов экрана.</td><td><a href="vozmozhnosti/hud.md">hud.md</a></td></tr><tr><td><strong>Модули</strong></td><td>Найти функцию и разобраться в её настройках.</td><td><a href="vozmozhnosti/modules-overview.md">modules-overview.md</a></td></tr><tr><td><strong>Записи и клипы</strong></td><td>Сохранить нужный момент игры.</td><td><a href="vozmozhnosti/records.md">records.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Модерация и архив</strong></td><td>Меню цели, наказания и локальный журнал.</td><td><a href="vozmozhnosti/ban-system.md">ban-system.md</a></td></tr><tr><td><strong>Эффекты бана</strong></td><td>Drone, Северный топор, El Drifto и другие сцены.</td><td><a href="moduli/ban-effect.md">ban-effect.md</a></td></tr><tr><td><strong>Последняя дуэль</strong></td><td>Меч и отдельная камера для завершающего удара по копии.</td><td><a href="moduli/last-duel.md">last-duel.md</a></td></tr><tr><td><strong>Работа по сменам</strong></td><td>Назначенные заявки, участники и таймер наблюдения.</td><td><a href="nastroika/spec-helper.md">spec-helper.md</a></td></tr><tr><td><strong>Автоматический вход</strong></td><td>Auto Key: ключ и отложенная команда /ca teamtg.</td><td><a href="moduli/auto-key.md">auto-key.md</a></td></tr><tr><td><strong>Конфиги по коду</strong></td><td>Сохранить настройки и поделиться ими.</td><td><a href="vozmozhnosti/configs.md">configs.md</a></td></tr><tr><td><strong>HUD и оформление</strong></td><td>Темы, панели и редактор элементов экрана.</td><td><a href="vozmozhnosti/hud.md">hud.md</a></td></tr><tr><td><strong>Модули</strong></td><td>Найти функцию и разобраться в её настройках.</td><td><a href="vozmozhnosti/modules-overview.md">modules-overview.md</a></td></tr><tr><td><strong>Записи и клипы</strong></td><td>Сохранить нужный момент игры.</td><td><a href="vozmozhnosti/records.md">records.md</a></td></tr></tbody></table>
 
 ## Всегда под рукой
 

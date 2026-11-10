@@ -8,6 +8,16 @@ description: >-
 
 Настоящие снимки интерфейса и визуальных сцен. Версия указана в подписи: базовые экраны — 3.3, новые эффекты — 3.4 и 3.5, снежное оформление New Year Mode — 3.5. Для примеров проверок, заявок, отчётов и сетевых функций использованы демонстрационные ники и данные. Нажмите на изображение, чтобы рассмотреть его в полном размере.
 
+## Смены и запись — 3.5
+
+![Смена с личной очередью и таймером наблюдения](../.gitbook/assets/duck-util-3.5-shift-spec.webp)
+
+![Настройка непрерывной записи смены](../.gitbook/assets/duck-util-3.5-shift-records.webp)
+
+![Локальный архив банов](../.gitbook/assets/duck-util-3.5-shift-archive.webp)
+
+[Спекхелпер](../nastroika/spec-helper.md) · [Записи](../nastroika/records-screen.md) · [Архив банов](../nastroika/report-screen.md)
+
 ## Снежный голем — 3.5
 
 Бан-эффект на основе скелета: появление в алых спиралях частиц, подход и выстрел снежком. На големе объёмная красно-белая шапка с кубиком-помпоном. Все кадры сняты в отдельном тестовом мире, без настоящего бана.
@@ -50,11 +60,11 @@ description: >-
 
 [Список модулей](../vozmozhnosti/modules-overview.md) · [Главное меню](../nastroika/duck-screen.md) · [Клавиши](../nastroika/keybindings.md)
 
-## Проверки и модерация
+## Рабочие страницы 3.3
 
 <figure><img src="../.gitbook/assets/screenshots-3.3/page-check.png" alt="Проверка и переписка"><figcaption><p>Проверка и переписка · Duck Util 3.3. Демонстрационные данные.</p></figcaption></figure>
 
-[Рабочие страницы](../nastroika/menu-pages.md) · [Ветка](../nastroika/branch-screen.md) · [Автоскан](../nastroika/auto-scan-screen.md) · [Отчёт](../nastroika/report-screen.md)
+[Рабочие страницы](../nastroika/menu-pages.md) · [Ветка](../nastroika/branch-screen.md) · [Автоскан](../nastroika/auto-scan-screen.md) · [Архив банов](../nastroika/report-screen.md)
 
 ## HUD и свой дизайн
 
