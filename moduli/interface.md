@@ -2,21 +2,21 @@
 
 Модуль **Interface** содержит настройки внешнего вида меню Duck Util: фон, масштаб, прозрачность, анимации и звуки.
 
-<figure><img src="../.gitbook/assets/new-year-3.5-powder-menu.png" alt="Настройки Interface в Duck Util 3.5 с включённым New Year Mode"><figcaption><p>Interface · Duck Util 3.5. New Year Mode включён.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/interface-4.0.png" alt="Настройки Interface в Duck Util 4.0 с включённым New Year Mode"><figcaption><p>Interface · Duck Util 4.0. New Year Mode включён.</p></figcaption></figure>
 
 Откройте меню клавишей **Right Shift**, выберите **Interface** и меняйте параметры, чтобы сразу увидеть результат. Если надписи плохо читаются, уменьшите прозрачность фона или отключите изображение под меню.
 
 Для выбора цветовой схемы откройте модуль [Theme](theme.md).
 
-## Old (revise) · 3.5
+## Old (revise) · 4.0
 
 Откройте **Right Shift → Разное → Interface** и прокрутите до раздела **«Меню»**. Переключатель **Old (revise)** по умолчанию выключен и сохраняется в конфиге.
 
 При включении в боковом меню появляется страница [«Проверка»](../nastroika/check-screen.md). В меню цели на **V** появляется **«Вызвать на проверку»**, а в **«Визуалах»** можно включить [Dark Summon](dark-summon.md). [Спекхелпер смены](../nastroika/spec-helper.md) доступен при обоих положениях переключателя.
 
-![Переключатель Old (revise) в разделе «Меню» модуля Interface](../.gitbook/assets/duck-util-3.5-old-revise-on.webp)
+![Настройки модуля Interface](../.gitbook/assets/interface-4.0.png)
 
-## New Year Mode · 3.5
+## New Year Mode · 4.0
 
 Включите **Right Shift → Разное → Interface → New Year Mode** в разделе **«Меню»**. По умолчанию режим выключен; его можно включать в любое время года.
 
@@ -28,4 +28,4 @@
 
 **HUD остаётся без новогодних украшений**: рабочий чат, watermark, уведомления и остальные элементы экрана сохраняют своё оформление. Переключатель сохраняется в конфиге.
 
-<figure><img src="../.gitbook/assets/new-year-3.5-powder-preview.png" alt="Снег повторяет поверхность игрушек; гирлянды расположены под разными углами"><figcaption><p>Меню и предпросмотр · New Year Mode, Duck Util 3.5.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/preview-snow-4.0.png" alt="Снег повторяет поверхность игрушек; гирлянды расположены под разными углами"><figcaption><p>Меню и предпросмотр · New Year Mode, Duck Util 4.0.</p></figcaption></figure>
