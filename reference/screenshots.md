@@ -10,7 +10,11 @@ description: >-
 
 ## Смены и запись — 3.5
 
-![Смена с личной очередью и таймером наблюдения](../.gitbook/assets/duck-util-3.5-shift-spec.webp)
+В обновлённых окнах 3.5 используются отдельные панели для видео, текста ответа и назначенных заявок. На снимках демонстрационные данные.
+
+![Окно ответа на апелляцию с демонстрационным клипом](../.gitbook/assets/duck-util-3.5-redesign-appeal-editor.webp)
+
+![Смена с личной очередью и таймером наблюдения](../.gitbook/assets/duck-util-3.5-redesign-shift-spec.webp)
 
 ![Настройка непрерывной записи смены](../.gitbook/assets/duck-util-3.5-shift-records.webp)
 
