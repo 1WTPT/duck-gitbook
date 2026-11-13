@@ -27,3 +27,5 @@
 <figure><img src="../.gitbook/assets/screenshots-3.3/hud-watermark-editor.png" alt="Редактор Watermark"><figcaption><p>Редактор Watermark · Duck Util 3.3.</p></figcaption></figure>
 
 </details>
+
+Часть WorkHud «Наказания» удалена вместе с системой отчётов. При загрузке старого собственного вида эта часть пропускается; остальные элементы сохраняются.
