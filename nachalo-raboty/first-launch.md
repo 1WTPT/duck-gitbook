@@ -1,10 +1,8 @@
 # Первый запуск
 
-Запустите Minecraft через профиль Fabric, в котором установлены Fabric API и Duck Util.
+В Duck Launcher сохраните локальный ник в **Профиле**, затем нажмите **Играть** на вкладке **Запуск**. При ручной установке запустите профиль Fabric с Fabric API и Duck Util.
 
-<!-- screenshots-3.3 -->
-<figure><img src="../.gitbook/assets/screenshots-3.3/title-menu.png" alt="Главное меню Duck Util: ночное озеро и уточка" data-size="original"><figcaption><p>Главное меню Duck Util: ночное озеро и уточка · Duck Util 3.3.</p></figcaption></figure>
-<!-- /screenshots-3.3 -->
+<figure><img src="../.gitbook/assets/screenshots-3.3/title-menu.png" alt="Главное меню Duck Util: ночное озеро и уточка"><figcaption><p>Главное меню Duck Util: ночное озеро и уточка · Duck Util 3.3.</p></figcaption></figure>
 
 ## Открыть меню
 
